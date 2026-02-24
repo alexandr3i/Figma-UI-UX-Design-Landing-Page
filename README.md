@@ -4,6 +4,8 @@ During my apprenticeship at **Webcase**, I designed and iterated a UI/UX project
 
 **Figma file:** https://www.figma.com/file/rVVdmdnxKlL3uotqSGxFwz/Curs-UI-UX
 
+**Course period:** Feb 2024 – Mar 2024
+
 ---
 
 ## What’s inside
